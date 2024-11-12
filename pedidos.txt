@@ -1,0 +1,2 @@
+Nombre: Thiago, Dirección: av a, Pizzas: Muzza, Cantidad: 3
+Nombre: Thiago, Dirección: av a, Pizzas: Calabresa, Cantidad: 2
